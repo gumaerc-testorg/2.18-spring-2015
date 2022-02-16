@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a file that contains information regarding biomolecular feedback
   systems homework 8.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-18-biomolecular-feedback-systems-spring-2015/36da4a36fc70c46c952064591b9f71db_MIT2_18S15_Homework_8.pdf
+file: /media/courses/2-18-biomolecular-feedback-systems-spring-2015/36da4a36fc70c46c952064591b9f71db_MIT2_18S15_Homework_8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Biomolecular Feedback Systems Homework 8
 uid: 36da4a36-fc70-c46c-9520-64591b9f71db

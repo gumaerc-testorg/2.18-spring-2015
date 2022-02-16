@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a file that contains information regarding biomolecular feedback
   systems homework 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-18-biomolecular-feedback-systems-spring-2015/201e2995f56e209a1b9c1283e9bd9e44_MIT2_18S15_Homework_3.pdf
+file: /media/courses/2-18-biomolecular-feedback-systems-spring-2015/201e2995f56e209a1b9c1283e9bd9e44_MIT2_18S15_Homework_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Biomolecular Feedback Systems Homework 3
 uid: 201e2995-f56e-209a-1b9c-1283e9bd9e44
