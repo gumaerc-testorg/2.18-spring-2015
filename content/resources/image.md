@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Gene Circuit. Image by MIT OpenCourseWare.
-file: /media/courses/2-18-biomolecular-feedback-systems-spring-2015/a5bc1e5842b3f775c30aa3282f3a890b_image.jpg
+file: /courses/2-18-biomolecular-feedback-systems-spring-2015/a5bc1e5842b3f775c30aa3282f3a890b_image.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Gene Circuit.
@@ -13,7 +13,10 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Project
 parent_type: CourseSection
+parent_uid: 5ad3d098-4510-d34f-faad-b7804a0ff001
 resourcetype: Image
 title: image.jpg
 uid: a5bc1e58-42b3-f775-c30a-a3282f3a890b
 ---
+Gene Circuit. Image by MIT OpenCourseWare.
+
