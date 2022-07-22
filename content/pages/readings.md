@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section lists the readings assigned in the course, and provides
+  links to the free electronic edition of the textbook.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c4df4990-5613-5717-b00a-9e21655e1932
 ---
@@ -11,7 +16,7 @@ The [electronic edition of the textbook](http://www.cds.caltech.edu/~murray/BFSw
 Part I: Analysis
 ----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 2: Core Processes (PDF - 4.2MB)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-coreproc_14Sep14.pdf)
+[Chapter 2: Core Processes (PDF - 4.2MB)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-coreproc_14Sep14.pdf)
 
 *   Modeling Techniques
 *   Transcription and Translation
@@ -19,7 +24,7 @@ Part I: Analysis
 *   Post-transcriptional Regulation
 *   Cellular Subsystems
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 3: Dynamic Behavior (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-dynamics_14Sep14.pdf)
+[Chapter 3: Dynamic Behavior (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-dynamics_14Sep14.pdf)
 
 *   Analysis Near Equilibria
 *   Robustness
@@ -27,7 +32,7 @@ Part I: Analysis
 *   Bifurcations
 *   Model Reduction Techniques
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 4: Stochastic Modeling and Analysis (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-stochastic_14Sep14.pdf)
+[Chapter 4: Stochastic Modeling and Analysis (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-stochastic_14Sep14.pdf)
 
 *   Stochastic Modeling of Biochemical Systems
 *   Simulation of Stochastic Systems
@@ -36,7 +41,7 @@ Part I: Analysis
  Part II: Design
 ----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 5: Biological Circuit Components (PDF - 2.4MB)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-circuits_14Sep14.pdf)
+[Chapter 5: Biological Circuit Components (PDF - 2.4MB)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-circuits_14Sep14.pdf)
 
 *   Introduction to Biological Circuit Design
 *   Negative Autoregulation
@@ -46,7 +51,7 @@ Part I: Analysis
 *   An Incoherent Feedforward Loop (IFFL)
 *   Bacterial Chemotaxis
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 6: Interconnecting Components (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-modules_14Sep14.pdf)
+[Chapter 6: Interconnecting Components (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-modules_14Sep14.pdf)
 
 *   Input / Output Modeling and the Modularity Assumption
 *   Introduction to Retroactivity
@@ -55,7 +60,7 @@ Part I: Analysis
 *   Insulation Devices: Retroactivity Attenuation
 *   A Case Study on the Use of Insulation Devices
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 7: Design Tradeoffs (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-tradeoffs_14Sep14.pdf)
+[Chapter 7: Design Tradeoffs (PDF)](http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-tradeoffs_14Sep14.pdf)
 
 *   Competition for Shared Cellular Resources
 *   Stochastic Effects: Design Tradeoffs in Systems with Large Gains

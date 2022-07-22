@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a description of the course project on cell differentiation
+  and design of reprogramming techniques.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Project
 uid: 5ad3d098-4510-d34f-faad-b7804a0ff001
 ---
@@ -9,7 +13,7 @@ The project can be done by an individual student or in a team of two. The projec
 Cell Differentiation and Design of Reprogramming Techniques
 -----------------------------------------------------------
 
-![image.jpg]({{< resource_file a5bc1e58-42b3-f775-c30a-a3282f3a890b >}})
+{{< resource a5bc1e58-42b3-f775-c30a-a3282f3a890b >}}
 
 In this project, we are going to explore suitable models of cell differentiation for reprogramming purposes. Pluripotent stem cells can differentiate into a number of different cell types. It is known that a set of master genes control this differentiation process. Essentially, different cell types have the same genetic circuitry, but the specific steady state in which the circuit is determines the type of the cell. During cell differentiation, environmental stimuli drive the state of the circuit from one stable steady state to another, thus determining cell fate. The above diagram shows a key gene circuit motif involving two master regulator genes X1 and X2. The first objective of this project is to write down a mathematical model of the above circuitry satisfying specific characteristics known from experimental data. The second objective is to investigate robust "reprogramming strategies".
 
