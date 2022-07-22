@@ -10,6 +10,7 @@ image_metadata:
     Each X has a pointed arrow that originates and points to itself, and a flat arrow
     that points to the other X.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Project
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: image.jpg
 uid: a5bc1e58-42b3-f775-c30a-a3282f3a890b
 ---
 Gene Circuit. Image by MIT OpenCourseWare.
-

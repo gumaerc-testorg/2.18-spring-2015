@@ -6,6 +6,7 @@ file: /courses/2-18-biomolecular-feedback-systems-spring-2015/b36cd8ccb51337cedf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Biomolecular Feedback Systems Homework 4
 uid: b36cd8cc-b513-37ce-df5f-dbef2c2e4379
 ---
 This is a file that contains information regarding biomolecular feedback systems homework 4.
-
