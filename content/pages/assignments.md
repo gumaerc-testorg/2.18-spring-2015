@@ -9,9 +9,9 @@ title: Assignments
 uid: 74de7b80-4edf-0bb6-e964-a7238fadc4a3
 ---
 
-Exercises are from the course textbook Del Vecchio, Domitilla, and Richard M. Murray. _Biomolecular Feedback Systems_. Princeton University Press, 2014. ISBN: 9780691161532. \[Preview with [Google Books](http://books.google.com/books?id=mA3rAwAAQBAJ&pg=PAfrontcover)\]
+Exercises are from the course textbook Del Vecchio, Domitilla, and Richard M. Murray. _Biomolecular Feedback Systems_. Princeton University Press, 2014. ISBN: 9780691161532. \[Preview with {{% resource_link "d3424bb9-775e-48dc-a7d1-f54366bde324" "Google Books" %}}\]
 
-The [electronic edition of the textbook](http://www.cds.caltech.edu/~murray/BFSwiki/index.php/Main_Page) is available for free on the book's website.
+The {{% resource_link "169acd67-4e45-4703-b749-c54b2135d647" "electronic edition of the textbook" %}} is available for free on the book's website.
 
 Solutions are not available.
 
