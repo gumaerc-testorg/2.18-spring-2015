@@ -41,15 +41,15 @@ By the end of the course, students will know these things:
 Textbook
 --------
 
-Del Vecchio, Domitilla, and Richard M. Murray. _Biomolecular Feedback Systems_. Princeton University Press, 2014. ISBN: 9780691161532. \[Preview with {{% resource_link "d3424bb9-775e-48dc-a7d1-f54366bde324" "Google Books" %}}\]
+Del Vecchio, Domitilla, and Richard M. Murray. _Biomolecular Feedback Systems_. Princeton University Press, 2014. ISBN: 9780691161532. \[Preview with [Google Books](http://books.google.com/books?id=mA3rAwAAQBAJ&pg=PAfrontcover)\]
 
-The {{% resource_link "169acd67-4e45-4703-b749-c54b2135d647" "electronic edition of the textbook" %}} is available for free on the book's website.
+The [electronic edition of the textbook](http://www.cds.caltech.edu/~murray/BFSwiki/index.php/Main_Page) is available for free on the book's website.
 
 ### Other Recommended Textbooks
 
-Alon, Uri. _An Introduction to Systems Biology: Design Principles of Biological Circuits_. Chapman and Hall / CRC Press, 2006. ISBN: 9781584886426. \[Preview with {{% resource_link "602cb9f8-a648-48a2-88ce-1e775b995264" "Google Books" %}}\]
+Alon, Uri. _An Introduction to Systems Biology: Design Principles of Biological Circuits_. Chapman and Hall / CRC Press, 2006. ISBN: 9781584886426. \[Preview with [Google Books](http://books.google.com/books?id=tcxCkIxzCO4C&pg=PAfrontcover)\]
 
-Klipp, Edda, Ralf Herwig, et al. _Systems Biology in Practice: Concepts, Implementation and Application_. Wiley Blackwell, 2005. ISBN: 9783527310784. \[Preview with {{% resource_link "940c7843-ab1d-42f2-a761-c1bf50b68097" "Google Books" %}}\]
+Klipp, Edda, Ralf Herwig, et al. _Systems Biology in Practice: Concepts, Implementation and Application_. Wiley Blackwell, 2005. ISBN: 9783527310784. \[Preview with [Google Books](http://books.google.com/books?id=bLhw9l1OJOUC&pg=PAfrontcover)\]
 
 Alberts, Bruce, Alexander Johnson, et al. _Molecular Biology of the Cell_. 4th ed. Garland Science, 2002. ISBN: 9780849371615.
 
