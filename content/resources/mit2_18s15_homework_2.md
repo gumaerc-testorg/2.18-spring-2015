@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding biomolecular feedback
   systems homework 2.
-file: /courses/2-18-biomolecular-feedback-systems-spring-2015/6360b8200d4ee28822f99ee31b16a911_MIT2_18S15_Homework_2.pdf
+file: /ol-ocw-studio-app/courses/2-18-biomolecular-feedback-systems-spring-2015/6360b8200d4ee28822f99ee31b16a911_MIT2_18S15_Homework_2.pdf
 file_size: 78487
 file_type: application/pdf
 learning_resource_types:
