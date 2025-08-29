@@ -64,10 +64,11 @@
   },
   "learning_resource_types": [
     "Problem Sets",
-    "Online Textbook",
+    "Open Textbooks",
     "Projects"
   ],
   "site_uid": "5b128041-800d-4ebf-adc0-e8c7dd64fdae",
   "site_short_id": "2.18-spring-2015",
+  "site_url_path": "courses/2-18-biomolecular-feedback-systems-spring-2015",
   "title": "Course Metadata"
 }
